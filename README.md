@@ -42,11 +42,7 @@ To run the notebook:
     ```bash
     git clone https://github.com/YourUsername/YourRepository.git
     ```
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Open the Jupyter Notebook:
+2. Open the Jupyter Notebook:
     ```bash
     jupyter notebook diffusion_models_exploration.ipynb
     ```
@@ -55,16 +51,6 @@ To run the notebook:
 
 - Basic knowledge of deep learning and generative models.
 - Familiarity with Jupyter Notebooks and Python programming.
-
-### Dependencies
-
-- Python 3.x
-- PyTorch
-- Matplotlib
-- NumPy
-- Jupyter Notebook
-
-You can install the required packages using the provided `requirements.txt` file.
 
 ## Goals
 
